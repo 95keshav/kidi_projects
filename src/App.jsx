@@ -4,6 +4,7 @@ import { Suspense, lazy } from "react";
 const GroceryList = lazy(() => import("./components/grocery-list/GroceryList"));
 const LandingPage = lazy(() => import("./components/LandingPage/LandingPage"));
 const TicTacToe = lazy(() => import("./components/TicTacToe/assets/TicTacToe"));
+const Contact = lazy(() => import("./components/Contact/Contact"));
 import "./App.css";
 import MobileNav from "./components/Navbar/MobileNav";
 
@@ -34,6 +35,14 @@ function App() {
           element={
             <Suspense>
               <TicTacToe />
+            </Suspense>
+          }
+        ></Route>
+        <Route
+          path="/contact"
+          element={
+            <Suspense>
+              <Contact />
             </Suspense>
           }
         ></Route>

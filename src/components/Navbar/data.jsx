@@ -24,7 +24,7 @@ export const links = [
   },
   {
     id: 5,
-    url: "/profile",
+    url: "https://www.linkedin.com/in/keshav-sharma95/",
     text: "profile",
   },
 ];

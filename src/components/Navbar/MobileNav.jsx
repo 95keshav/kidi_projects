@@ -8,7 +8,6 @@ import { useState } from "react";
 
 const MobileNav = () => {
   const [showLinks, setShowLinks] = useState(false);
-  console.log("lll");
   return (
     <nav className="mobileNav">
       <div className="mobileHeader">
