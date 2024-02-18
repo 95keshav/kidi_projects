@@ -1,8 +1,8 @@
 const LandingPage = () => {
   return (
-    <>
-      <h1>Landing Page is the</h1>
-    </>
+    <div style={{ margin: "auto", width: "500px" }}>
+      <h1>Commimg Soon</h1>
+    </div>
   );
 };
 export default LandingPage;
