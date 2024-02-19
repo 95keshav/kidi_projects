@@ -20,7 +20,7 @@ nav ul{
 
 nav ul li{
     float: left;
-    transition: .3s ease-in-out all;
+    /* transition: .3s ease-in-out all; */
 }
 
 nav ul li a{
@@ -30,7 +30,7 @@ nav ul li a{
   text-align: center;
   text-decoration: none;
   margin: 1rem;
-  transition: .3s ease-in-out all;
+  /* transition: .3s ease-in-out all; */
 }
 
 @media screen and (max-width:800px) {

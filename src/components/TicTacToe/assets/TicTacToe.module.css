@@ -90,5 +90,32 @@
     font-weight: 700;
   }
   
+  @media screen and (max-width:800px) {
+    .heading{
+      font-size: 3rem;
+    }
+
+    .rstBtn{
+      font-size: 1rem;      
+    }
+
+    .container{
+      height: 50vh;
+    }
+
+    #msg{
+      font-size: 16px;
+      font-weight: 500;
+      position: relative;
+      bottom: 300px;
+    }
+
+    @keyframes named {
+      0%    { transform: translateY(0px) scale(1);letter-spacing: 0px;}
+      50%    { transform: translateY(10px) scale(1.8);letter-spacing: 10px; }
+      100%  { transform: translateY(0px) scale(1);letter-spacing: 0px;}
+      
+    }
+  }
   
   
