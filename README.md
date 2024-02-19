@@ -4,16 +4,16 @@ Welcome to my portfolio website! This site showcases my projects, skills, and ex
 
 ## About Me
 
-I am a passionate web developer with expertise in frontend technologies such as HTML, CSS, JavaScript, and React.js. I love creating interactive and user-friendly web applications that solve real-world problems.
+I am a passionate web developer with expertise in front-end technologies like HTML, CSS, JavaScript, and React.js. I love creating interactive and user-friendly web applications that solve real-world problems.
 
 ## Projects
 
 Here are some of the small fun  projects featured on this site more are coming on the way:
 
-1. **Project 1**: [Grocery List App](https://95keshav.github.io/grocery)
-2. **Project 2**: [Tic Toc App](https://95keshav.github.io/tictactoe)
+1. **Project 1**: [Grocery List App](https://95keshav.github.io/kidi_projects)
+2. **Project 2**: [Tic Toc App](https://95keshav.github.io/kidi_projects)
 
-For link , please visit the [Projects](https://95keshav.github.io/) page.
+For the link, please visit the [Projects](https://95keshav.github.io/kidi_projects) page.
 
 ## Skills
 
